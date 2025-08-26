@@ -29,10 +29,11 @@ This repository includes:
 ## 🔗 Live Branch Links
 
 - [Core-Java-Programming](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Core-Java-Programming) –> Arrays, Control Flow, Extras, Java Programming Elements, Methods, and Strings  
-- [OOPs-Fundamentals](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/OOPs-Fundamentals) –> Classes and Objects, Constructors, static and final keywords, Object Modeling-Class Diagram, Sequence Diagram,  Inheritance, Pseudo codes(Day1, Day2, .....)
+- [OOPs-Fundamentals](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/OOPs-Fundamentals) –> Classes and Objects, Constructors, static and final keywords, Object Modeling-Class Diagram, Sequence Diagram,  Inheritance
 - [Workshop](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Workshop) –> Real-time tasks and practical exercises
-- [DSA](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/DSA) -> Stack, Queue, HashMap, Hashing Functions, Searching and Sorting Algorithms, LinkedList, Time-Complexity, Pseudo codes(Day-1, Day-2, .....)
-- [Generics](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Generics) -> Problems related to generics, Collections-(List, Map, Queue, Set and Advanced Scenerio Based Problems), Java Streams-(file-handling), Regex, Pseudo codes(Day_1, Day_2, .....)
+- [DSA](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/DSA) -> Stack, Queue, HashMap, Hashing Functions, Searching and Sorting Algorithms, LinkedList, Time-Complexity
+- [Generics](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Generics) -> Problems related to generics, Collections-(List, Map, Queue, Set and Advanced Scenerio Based Problems), Java Streams-(file-handling), Regex
+- [PseudoCodes](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/PseudoCodes) -> Contains pseudocodes week wise related to OOPS, DSA, Generics and Collection
 
 ---
 
@@ -48,4 +49,6 @@ Branches:
   ├── Workshop                  → Tasks and workshop-based exercises  
   ├── DSA                       → Data Structures and Algorithms in Java  
   ├── Generics                  → Java Generics with examples and use cases  
+  ├── PseudoCodes               → Algorithmic problem-solving with pseudocode
+ 
 
